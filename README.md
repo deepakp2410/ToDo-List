@@ -40,7 +40,7 @@ This is a simple **To-Do List App** created using HTML, CSS, and JavaScript. It 
 - Add filters to sort tasks based on their completion status.
 
 ## Demo
-You can try the app by visiting the following link: s[LinkedIn Profile](https://www.linkedin.com/in/deepak-patil-23772b252/) 
+You can try the app by visiting the following links: [LinkedIn Profile](https://www.linkedin.com/in/deepak-patil-23772b252/) 
 
 ## Technologies Used
 - HTML: Structuring the to-do app's layout.
